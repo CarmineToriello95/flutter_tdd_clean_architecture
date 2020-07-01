@@ -1,5 +1,5 @@
-name: number_trivia
-description: A new Flutter project.
+name: flutter_tdd_clean_architecture
+description: Simple flutter app, implemented with tdd and clean architecture. 
 
 version: 1.0.0+1
 

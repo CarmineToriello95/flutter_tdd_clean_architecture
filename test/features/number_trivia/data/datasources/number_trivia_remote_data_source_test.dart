@@ -5,9 +5,9 @@ import 'package:http/http.dart';
 import 'package:mockito/mockito.dart';
 import 'package:http/http.dart' as http;
 import 'package:matcher/matcher.dart';
-import 'package:number_trivia/core/error/exceptions.dart';
-import 'package:number_trivia/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
-import 'package:number_trivia/features/number_trivia/data/models/number_trivia_model.dart';
+import 'package:flutter_tdd_clean_architecture/core/error/exceptions.dart';
+import 'package:flutter_tdd_clean_architecture/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
+import 'package:flutter_tdd_clean_architecture/features/number_trivia/data/models/number_trivia_model.dart';
 
 import '../../../../fixtures/fixture_reader.dart';
 
