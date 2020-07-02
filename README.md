@@ -3,4 +3,4 @@ Simple flutter app, implemented following the tdd technique and structured with 
 
 ### App architecture
 
-<img src="assets/images/clean_architecture.png" alt="drawing" width="200">
+<img src="assets/images/clean_architecture_flutter.png" alt="drawing" width="200">
